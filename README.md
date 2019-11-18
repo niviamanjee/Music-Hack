@@ -1,3 +1,15 @@
-# project-1
+# Music-Hack
 
-Google Docs: [Collaboration Doc](https://docs.google.com/document/d/13Vi6KM9dqe4a5SNN0Ck-RUtyZgsTZNvwWakgKQqkU3o/edit?ts=5db7a006)
+A dynamic concert search application that will allow users to search concerts by location and/or favorite artists. The site will then display information about the related artist's trending news articles and merchandise, giving user's the convenience of having a one-stop concert planning experience. 
+
+## Skills Used 
+* HTML 
+* CSS and Materialize.css
+* Javascript 
+* JQuery 
+* Ajax
+
+## API's Used
+* Ticketmaster 
+* News 
+* Location Autocomplete 
